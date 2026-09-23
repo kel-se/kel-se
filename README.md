@@ -2,9 +2,9 @@
 
 I'm **Michael**, a **full-stack developer focused on backend development**.
 
-I build practical apps with **databases, APIs, and modern technologies**.
+I like building **practical software, APIs, and systems that work well behind the scenes**.
 
-Currently building **ScentGuard Vent** and **Dormly**, while learning **.NET and C#**.
+Currently building **ScentGuard Vent** and **Dormly**, while exploring **.NET and C#**.
 
 #### let's connect!
 
@@ -16,14 +16,4 @@ Currently building **ScentGuard Vent** and **Dormly**, while learning **.NET and
 
 **.NET · C# · Backend Development**
 
-Learning to build backend applications and APIs with .NET.
-
-<br/>
-
-<div align="center">
-
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="140">
-<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="140">
-<img src="https://play.pokemonshowdown.com/sprites/ani/noivern.gif" width="140">
-
-</div>
+Getting into **.NET backend development** and building with C#.
