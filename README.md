@@ -1,38 +1,31 @@
-<div align="right">
-  <img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="100">
+<div align="center">
+
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="90">
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="90">
+<img src="https://play.pokemonshowdown.com/sprites/ani/noivern.gif" width="110">
+
 </div>
 
-### Hi there! 👋
+# Hi there! 👋
 
-I'm **Michael**, a **full-stack developer focused on backend development**.
+**Michael** · Full-stack developer, backend-focused.
 
-I like building **practical software, APIs, and systems that work well behind the scenes**.
+I build **practical software, APIs, and systems**.
 
-Currently building **ScentGuard Vent** and **Dormly**, while exploring **.NET and C#**.
+Currently working on **ScentGuard Vent** and **Dormly**
+while learning **.NET and C#**.
 
-<br>
-
-### let's connect!
-
----
-
-### Tech I Work With
+### Stack
 
 `Kotlin` `Java` `Python` `JavaScript` `TypeScript`
 `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
-### Currently Learning
+### Learning
 
 **.NET · C# · Backend Development**
 
-Getting into **.NET backend development** and building with C#.
+Getting into the **.NET ecosystem** and building with C#.
 
-<br>
+### let's connect!
 
-<div align="center">
-
-<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="110">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://play.pokemonshowdown.com/sprites/ani/noivern.gif" width="130">
-
-</div>
+---
