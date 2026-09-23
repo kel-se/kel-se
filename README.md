@@ -6,7 +6,7 @@
 
 ### Hi there! 👋
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/226179220-9a3402d4-2b8c-4d43-a6c2-e33882a55f5c.gif" width="300" height="300">
+<img align="right" src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="180">
 
 I'm **Michael**, a **full-stack developer with a strong focus on backend development**.
 
@@ -18,51 +18,22 @@ When I'm not coding, I'm probably working on a side project, experimenting with 
 
 #### let's connect!
 
-<p align="left">
-  <a href="https://github.com/kel-se"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-  <a href="https://michaelportfolio-eight.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2358C7A4.svg?&style=for-the-badge&logo=Vercel&logoColor=white"/></a>
-</p>
+### Tech I Work With
 
-<br/>
+`Kotlin` `Java` `Python` `JavaScript` `TypeScript` `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-</p>
-
-## 🛠️ Tech I Work With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,python,js,ts,react,dotnet,firebase,git" />
-
-</p>
-
-## 🚀 Currently Building
-
-### 🌿 ScentGuard Vent
-
-An IoT-based smart ventilation system for restaurant garbage storage areas.
-
-**ESP32 · Firebase · Android · Kotlin · Jetpack Compose · Sensors**
-
-### 🏠 Dormly
-
-A full-stack dormitory management system for handling tenants, rooms, bookings, payments, maintenance, and notifications.
-
-**React · Firebase · Firestore · JavaScript**
-
-## 📚 Currently Learning
+### Currently Learning
 
 **.NET · C# · Backend Development**
 
 Exploring the .NET ecosystem and learning how to build backend applications and APIs with C#.
 
-<br/>
+<br clear="right"/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229981935-be4fa4a2-8f6d-4c8c-b0f4-fce9d0a0fa8d.gif" width="500">
-
-<sub>thanks for stopping by — have a look around! ✨</sub>
+<img src="https://play.pokemonshowdown.com/sprites/ani/goodra.gif" width="140">
+<img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="140">
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="140">
 
 </div>
