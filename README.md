@@ -1,4 +1,6 @@
 # Hi, I'm Michael 👋
 
-I'm a **BSIT student and full-stack developer**, with stronger skills and efficiency in **backend development**. I enjoy building reliable systems, handling databases and application logic, while also developing clean and functional frontends.
+Full-stack developer with a strong focus on backend development. I enjoy building reliable systems, working with databases, and turning ideas into functional applications.
+
+🌐 Check out my portfolio: michaelportfolio-eight.vercel.app
 
