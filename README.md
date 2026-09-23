@@ -6,13 +6,16 @@ I build practical applications with a focus on **backend systems, databases, API
 
 ### Tech
 
-`Kotlin` `Java` `Python` `JavaScript` `TypeScript` `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git` `OpenCV` `MediaPipe`
+`Kotlin` `Java` `Python` `JavaScript` `TypeScript` `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
 ### Currently Building
 
 * **ScentGuard Vent** — IoT-based smart ventilation system using ESP32, Firebase, sensors, and an Android app.
 * **Dormly** — Full-stack dormitory management system with Firebase, bookings, tenants, payments, maintenance, and notifications.
-* **Computer Vision Projects** — Real-time hand tracking and interactive visual effects using Python, OpenCV, and MediaPipe.
+
+### Learning
+
+* **.NET** — Exploring the .NET ecosystem and backend development with C#.
 
 ### Elsewhere
 
