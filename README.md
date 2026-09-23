@@ -17,3 +17,13 @@ Currently building **ScentGuard Vent** and **Dormly**, while exploring **.NET an
 **.NET · C# · Backend Development**
 
 Getting into **.NET backend development** and building with C#.
+
+<br/>
+
+<div align="center">
+
+<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="140">
+<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="140">
+<img src="https://play.pokemonshowdown.com/sprites/ani/noivern.gif" width="140">
+
+</div>
