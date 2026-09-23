@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=58C7A4&center=true&vCenter=true&width=650&height=60&lines=welcome+to+my+world" alt="typing banner" />
-
-</div>
-
 ### Hi there! 👋
 
 <img align="right" src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="180">
