@@ -14,4 +14,4 @@ Interested in **backend development, APIs, databases, automation, and full-stack
 
 🌐 **[Portfolio](https://michaelportfolio-eight.vercel.app/)**
 
-📍 Philippines
+📍 **MNL, Philippines · GMT+8**
