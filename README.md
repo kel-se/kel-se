@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-<img align="right" src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="180">
-
 I'm **Michael**, a **full-stack developer focused on backend development**.
 
 I build practical apps with **databases, APIs, and modern technologies**.
@@ -20,7 +18,7 @@ Currently building **ScentGuard Vent** and **Dormly**, while learning **.NET and
 
 Learning to build backend applications and APIs with .NET.
 
-<br clear="right"/>
+<br/>
 
 <div align="center">
 
