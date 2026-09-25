@@ -4,58 +4,29 @@
 <img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="90">
 <img src="https://play.pokemonshowdown.com/sprites/ani/noivern.gif" width="110">
 
-# Michael
+</div>
 
-**Full-stack developer · backend-focused**
+# Hi there! 👋
 
-I like building things that **do something useful**.
+**Michael** · Full-stack developer, backend-focused.
 
-APIs. Applications. IoT systems. Backend services.
-Sometimes they involve an ESP32. Sometimes they involve way too much debugging.
+I build **practical software, APIs, and systems**.
 
-Currently building:
+Currently working on **ScentGuard Vent** and **Dormly**
+while learning **.NET and C#**.
 
-**ScentGuard Vent** — smart ventilation + IoT
-**Dormly** — dormitory management platform
+### Stack
 
-Exploring **.NET · C# · backend architecture**
-
----
-
-### `// things I work with`
-
-**Languages**
-
-`Kotlin` `Java` `Python` `JavaScript` `TypeScript` `C#`
-
-**Development**
-
+`Kotlin` `Java` `Python` `JavaScript` `TypeScript`
 `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
-**Currently exploring**
+### Learning
 
-`.NET` `ASP.NET Core` `C#` `Backend Development`
+**.NET · C# · Backend Development**
 
----
+Getting into the **.NET ecosystem** and building with C#.
 
-### `projects`
-
-**ScentGuard Vent**
-IoT-based odor-responsive ventilation system built around ESP32, sensors, Firebase, and Android.
-
-**Dormly**
-A full-stack dormitory management system covering rooms, tenants, bookings, maintenance, payments, and notifications.
+### let's connect!
 
 ---
-
-### `currently`
-
-```text
-building       ███████████████████░  projects
-learning       ███████████████░░░░░  .NET / C#
-debugging      ████████████████████  forever
-```
-
-### let's connect
-
-[GitHub](https://github.com/kel-se) · [Portfolio](https://michaelportfolio-eight.vercel.app/)
+ surprised me
