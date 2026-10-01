@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_LOKI_TVA_GIF_URL_HERE" width="500">
+<img src="https://images.squarespace-cdn.com/content/v1/5ab43b35c258b487055ad91b/1625082576848-ZRJE76IHFKHW4K3A07YO/loki.gif" width="300">
 
 </div>
 
@@ -24,6 +24,6 @@ while learning **.NET and C#**.
 
 Getting into the **.NET ecosystem** and building with C#.
 
-### let's connect!
+### let's connect! 
 
 ---
