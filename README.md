@@ -1,48 +1,41 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPcfX631trLEyCQ/giphy.gif" width="180">
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="220">
 
-# Michael
+# Hi there! 👋
 
-**Full-stack developer · Backend-focused**
+**Michael** · Full-stack developer, backend-focused.
 
-*Creating software. Breaking things. Fixing them again.*
+> **Time. Variance. Development.**
 
-</div>
+I build **practical software, APIs, and systems**.
 
----
+Currently working on **ScentGuard Vent** and **Dormly**
+while learning **.NET and C#**.
 
-I build **practical software, APIs, and systems** with a focus on backend development and clean, functional experiences.
-
-Currently working on:
-
-* 🟢 **ScentGuard Vent** — an odor-responsive smart ventilation system
-* 🟢 **Dormly** — a dormitory management system
-* 🟢 Learning **.NET & C#**
-
-### ⚔️ Stack
+### `// TVA DATABASE`
 
 `Kotlin` `Java` `Python` `JavaScript` `TypeScript`
 `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
-### 🐍 Currently Learning
+### `// CURRENT TIMELINE`
 
 **.NET · C# · Backend Development**
 
-Exploring the **.NET ecosystem**, building with C#, and expanding my backend development skills.
+Getting into the **.NET ecosystem** and building with C#.
 
-### 🟢 A Little About Me
+### `// VARIANT STATUS`
 
-> *The path may change. The goal doesn't.*
+🟢 **ACTIVE**
 
-I enjoy building systems that solve real problems, experimenting with new technologies, and turning ideas into working software.
+Building. Learning. Experimenting.
 
-### Let's Connect
+### let's connect!
 
 ---
 
 <div align="center">
 
-**"You will always kneel."**
+`TVA // SACRED TIMELINE // DEVELOPER VARIANT`
 
 </div>
