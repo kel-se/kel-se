@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.squarespace-cdn.com/content/v1/5ab43b35c258b487055ad91b/1625082576848-ZRJE76IHFKHW4K3A07YO/loki.gif" width="300">
+<img src="https://media.tenor.com/0Z7M7QvM4XAAAAAd/loki-avengers-loki.gif" width="300">
 
 </div>
 
