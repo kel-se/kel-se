@@ -1,32 +1,48 @@
 <div align="center">
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/gengar.gif" width="90">
-<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="90">
-<img src="https://play.pokemonshowdown.com/sprites/ani/noivern.gif" width="110">
+<img src="https://media.giphy.com/media/3oKIPcfX631trLEyCQ/giphy.gif" width="180">
+
+# Michael
+
+**Full-stack developer · Backend-focused**
+
+*Creating software. Breaking things. Fixing them again.*
 
 </div>
 
-# Hi there! 👋
+---
 
-**Michael** · Full-stack developer, backend-focused.
+I build **practical software, APIs, and systems** with a focus on backend development and clean, functional experiences.
 
-I build **practical software, APIs, and systems**.
+Currently working on:
 
-Currently working on **ScentGuard Vent** and **Dormly**
-while learning **.NET and C#**.
+* 🟢 **ScentGuard Vent** — an odor-responsive smart ventilation system
+* 🟢 **Dormly** — a dormitory management system
+* 🟢 Learning **.NET & C#**
 
-### Stack
+### ⚔️ Stack
 
 `Kotlin` `Java` `Python` `JavaScript` `TypeScript`
 `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
-### Learning
+### 🐍 Currently Learning
 
 **.NET · C# · Backend Development**
 
-Getting into the **.NET ecosystem** and building with C#.
+Exploring the **.NET ecosystem**, building with C#, and expanding my backend development skills.
 
-### let's connect!
+### 🟢 A Little About Me
+
+> *The path may change. The goal doesn't.*
+
+I enjoy building systems that solve real problems, experimenting with new technologies, and turning ideas into working software.
+
+### Let's Connect
 
 ---
- surprised me
+
+<div align="center">
+
+**"You will always kneel."**
+
+</div>
