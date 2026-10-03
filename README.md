@@ -6,48 +6,42 @@
 
 ### Full-stack Developer · Backend-focused
 
-*Building practical software, APIs, and systems — one timeline at a time.*
+**Building practical software, APIs, and systems.**
 
-<img src="https://media.tenor.com/4K6u5j0qJbAAAAAC/loki-time.gif" width="500">
+<img src="https://media.tenor.com/8Q7p3G9q4GAAAAAC/loki-smile.gif" width="420">
 
 </div>
 
 ---
 
-## ⏱️ About Me
+## 👋 Hi there!
 
-I'm **Michael**, a BSIT student and full-stack developer focused on **backend development, APIs, and practical systems**.
+I'm **Michael**, a full-stack developer focused on **backend development** and building software that actually solves problems.
 
-Currently building:
+Currently working on:
 
-* 🟢 **ScentGuard Vent** — IoT-based smart ventilation system
-* 🏠 **Dormly** — dormitory management platform
+🟢 **ScentGuard Vent**
+🏠 **Dormly**
 
 Currently learning:
 
-* `.NET`
-* `C#`
-* Backend architecture
-
-> *“The timeline is messy. The code doesn't have to be.”*
+`.NET` · `C#` · `Backend Development`
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+`Kotlin` `Java` `Python`
 
-`Kotlin` · `Java` · `Python` · `JavaScript` · `TypeScript` · `C#`
+`JavaScript` `TypeScript` `C#`
 
-### Frameworks & Platforms
+`React` `Jetpack Compose`
 
-`React` · `Jetpack Compose` · `Firebase` · `Firestore` · `.NET`
+`Firebase` `Firestore` `SQL`
 
-### Tools
-
-`Git` · `GitHub` · `SQL`
+`Git` `GitHub` `.NET`
 
 </div>
 
@@ -55,25 +49,31 @@ Currently learning:
 
 <div align="center">
 
-<img src="https://media.tenor.com/3N7Q3m8J0JAAAAAC/loki-mobius.gif" width="400">
+<img src="https://media.tenor.com/6J0m7Y3J8JAAAAAC/loki-walking.gif" width="350">
 
-### Somewhere between timelines, APIs, and bad decisions.
+### Building things. Breaking things. Learning why.
 
 </div>
 
 ---
 
-## 🚀 Currently Building
+## 🚀 What I'm Working On
 
 ### 🟢 ScentGuard Vent
 
 An **odor-responsive smart ventilation system** designed for small to medium restaurant garbage storage areas.
 
-`ESP32` · `MQ135` · `Firebase` · `Android` · `Kotlin`
+**Stack**
+
+`ESP32` · `Kotlin` · `Firebase` · `Firestore`
+
+---
 
 ### 🏠 Dormly
 
-A dormitory management system focused on making everyday administration simpler.
+A dormitory management system focused on making everyday management simpler and more organized.
+
+**Stack**
 
 `React` · `TypeScript` · `Firebase` · `SQL`
 
@@ -83,46 +83,30 @@ A dormitory management system focused on making everyday administration simpler.
 
 <div align="center">
 
-<img src="https://media.tenor.com/8Q7p3G9q4GAAAAAC/loki-tva.gif" width="350">
+<img src="https://media.tenor.com/0d5W9f7v0NAAAAAC/loki-thinking.gif" width="300">
 
-### Entering the .NET timeline...
+### `.NET` + `C#`
 
-**C# → .NET → APIs → Backend Architecture**
+Exploring the **.NET ecosystem**, backend architecture, APIs, and building more robust applications with C#.
 
 </div>
 
 ---
 
-## 🧑‍💻 Development Philosophy
+## 💻 How I Build
 
 ```text
-Build it.
-Break it.
-Debug it.
-Understand it.
-Make it better.
+Idea
+ ↓
+Build
+ ↓
+Break
+ ↓
+Debug
+ ↓
+Understand
+ ↓
+Improve
 ```
 
-I like building systems that are **useful, maintainable, and actually solve problems**.
-
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/0Z7M7QvM4XAAAAAd/loki-avengers-loki.gif" width="220">
-
-### TVA STATUS
-
-`TIMELINE: ACTIVE`
-
-`DEVELOPER: ONLINE`
-
-`BUGS: CONTAINED... PROBABLY`
-
----
-
-### Let's connect.
-
-**GitHub · Portfolio · LinkedIn**
-
-</div>
+I enjoy turning ideas
