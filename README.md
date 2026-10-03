@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://media.tenor.com/8Q8Q7Q8Q7QAAAAAC/greninja-pokemon.gif" width="250">
+<img src="https://media.tenor.com/3G9kQ8Q8Q8AAAAAC/greninja-pokemon.gif" width="250">
+</div>
 
 # Michael
 
@@ -12,8 +12,7 @@ Currently working on **ScentGuard Vent** and **Dormly**, while learning **.NET a
 
 ### Stack
 
-`Kotlin` `Java` `Python` `JavaScript` `TypeScript`
-`React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
+`Kotlin` `Java` `Python` `JavaScript` `TypeScript` `React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
 ### Learning
 
@@ -28,5 +27,3 @@ Exploring the **.NET ecosystem** and building with C#.
 **Dormly** — Dormitory management platform.
 
 ### Let's connect!
-
-</div>
