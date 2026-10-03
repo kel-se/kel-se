@@ -1,6 +1,6 @@
 # Michael
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/greninja.gif" width="150">
+<img src="https://media.giphy.com/media/TLXeKsYpIjTBeis0Ox/giphy.gif" width="150">
 
 **Full-stack developer, backend-focused.**
 
