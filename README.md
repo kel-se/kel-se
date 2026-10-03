@@ -1,112 +1,32 @@
 <div align="center">
 
-<img src="https://media.tenor.com/0Z7M7QvM4XAAAAAd/loki-avengers-loki.gif" width="300">
+<img src="https://media.tenor.com/8Q8Q7Q8Q7QAAAAAC/greninja-pokemon.gif" width="250">
 
 # Michael
 
-### Full-stack Developer · Backend-focused
+**Full-stack developer, backend-focused.**
 
-**Building practical software, APIs, and systems.**
+I build **practical software, APIs, and systems.**
 
-<img src="https://media.tenor.com/8Q7p3G9q4GAAAAAC/loki-smile.gif" width="420">
+Currently working on **ScentGuard Vent** and **Dormly**, while learning **.NET and C#**.
 
-</div>
+### Stack
 
----
+`Kotlin` `Java` `Python` `JavaScript` `TypeScript`
+`React` `Jetpack Compose` `Firebase` `Firestore` `SQL` `Git`
 
-## 👋 Hi there!
+### Learning
 
-I'm **Michael**, a full-stack developer focused on **backend development** and building software that actually solves problems.
+**.NET · C# · Backend Development**
 
-Currently working on:
+Exploring the **.NET ecosystem** and building with C#.
 
-🟢 **ScentGuard Vent**
-🏠 **Dormly**
+### Projects
 
-Currently learning:
+**ScentGuard Vent** — IoT-based smart ventilation system.
 
-`.NET` · `C#` · `Backend Development`
+**Dormly** — Dormitory management platform.
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-`Kotlin` `Java` `Python`
-
-`JavaScript` `TypeScript` `C#`
-
-`React` `Jetpack Compose`
-
-`Firebase` `Firestore` `SQL`
-
-`Git` `GitHub` `.NET`
+### Let's connect!
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://media.tenor.com/6J0m7Y3J8JAAAAAC/loki-walking.gif" width="350">
-
-### Building things. Breaking things. Learning why.
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-### 🟢 ScentGuard Vent
-
-An **odor-responsive smart ventilation system** designed for small to medium restaurant garbage storage areas.
-
-**Stack**
-
-`ESP32` · `Kotlin` · `Firebase` · `Firestore`
-
----
-
-### 🏠 Dormly
-
-A dormitory management system focused on making everyday management simpler and more organized.
-
-**Stack**
-
-`React` · `TypeScript` · `Firebase` · `SQL`
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://media.tenor.com/0d5W9f7v0NAAAAAC/loki-thinking.gif" width="300">
-
-### `.NET` + `C#`
-
-Exploring the **.NET ecosystem**, backend architecture, APIs, and building more robust applications with C#.
-
-</div>
-
----
-
-## 💻 How I Build
-
-```text
-Idea
- ↓
-Build
- ↓
-Break
- ↓
-Debug
- ↓
-Understand
- ↓
-Improve
-```
-
-I enjoy turning ideas
