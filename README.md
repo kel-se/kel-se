@@ -27,4 +27,4 @@ Exploring the **.NET ecosystem** and building with C#.
 
 ### Let's connect!
 
-[GitHub](https://github.com/kel-se) · [Portfolio](https://michaelportfolio-eight.vercel.app/)
+[GitHub](https://github.com/kel-se) · [Portfolio](https://chael-dev.vercel.app//)
